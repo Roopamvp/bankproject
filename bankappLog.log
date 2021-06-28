@@ -1,0 +1,17 @@
+2021-06-28 20:04:12 INFO  BankApp:17 - info level - System start
+2021-06-28 20:04:57 INFO  BankApp:17 - info level - System start
+2021-06-28 20:05:21 INFO  BankApp:17 - info level - System start
+2021-06-28 20:05:31 TRACE BankApp:? - option entered: 2
+2021-06-28 20:06:53 INFO  BankApp:17 - info level - System start
+2021-06-28 20:07:04 TRACE BankApp:? - option entered: 2
+2021-06-28 20:12:48 INFO  BankApp:17 - info level - System start
+2021-06-28 20:12:53 TRACE BankApp:? - option entered: 2
+2021-06-28 20:13:07 TRACE BankApp:? - getUser query executing...
+2021-06-28 20:13:07 DEBUG BankApp:41 - No user found (Result set empty)
+2021-06-28 20:13:09 TRACE BankApp:? - executing INSERT...
+2021-06-28 20:13:10 DEBUG BankApp:68 - INSERT user failed: User [name=john, password=, balance=0.0, admin=false, approved=false]
+2021-06-28 20:13:10 DEBUG BankApp:163 - User could NOT be created: User [name=john, password=, balance=0.0, admin=false, approved=false]
+2021-06-28 20:13:34 INFO  BankApp:17 - info level - System start
+2021-06-28 20:13:41 TRACE BankApp:? - option entered: 2
+2021-06-28 20:13:50 TRACE BankApp:? - getUser query executing...
+2021-06-28 20:13:50 DEBUG BankApp:41 - No user found (Result set empty)
